@@ -2,7 +2,7 @@
 
 # Score Keeper Web App
 
-This is a simple web application for keeping score in a two-player game, such as ping pong. It allows players to increment their scores up to 11, set the winning score, and reset the game to initialize it again.
+This is a simple web application for keeping score in a two-player game, such as ping pong. It allows players to increment their scores up to 11, set the winning score, and reset the game to initialize it again.<br>
 Hosted at: https://sunil-20.github.io/ScoreKeeper/
 
 ## Usage
