@@ -43,7 +43,7 @@ Hosted at: https://sunil-20.github.io/ScoreKeeper/
 - `index.html`: The main HTML file.
 - `app.js`: JavaScript file containing the scoring logic.
 - `bulma.min.css`: Bulma CSS framework for styling.
-- `erik-mclean-C3T8KTZxTFM-unsplash.jpg`: Placeholder image for the web page.
+- `image`: Image folder for the image used in the app.
 
 ## Contributions
 
